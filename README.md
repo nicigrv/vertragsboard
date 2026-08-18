@@ -1,4 +1,10 @@
 # Vertragsboard
+---
+
+**Ein Produkt von <https://greylo.de>**
+**Weitere Informationen unter <https://greylo.de/vertragsboard.php>**
+
+---
 
 Windows-Desktop-Anwendung zur Verwaltung von Einstellungs- und
 Vertragsprozessen. Mehrere Personen arbeiten gleichzeitig – entweder
