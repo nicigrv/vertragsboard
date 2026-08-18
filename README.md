@@ -43,7 +43,7 @@ mehr hart im Code hinterlegt.
 
 Zwei Presets bei der Erstinstallation:
 
-- **Bonifatius-Standard** – 9 Prozessschritte, 8 Vertragsarten, 2 Kitas
+- **Bonifatius-Standard** – 9 Prozessschritte, 8 Vertragsarten, 2 Kitas (trifft auf die meißten Katholischen KITAS im Bistum Limburg zu)
 - **Leer** – man richtet alles selbst ein
 
 ## Voraussetzungen
