@@ -1,0 +1,12 @@
+# Dieses Repo enthaelt oeffentlich nur README + Releases.
+# Alle Quellen bleiben lokal.
+
+# Alles ignorieren...
+*
+*/
+
+# ...ausser Whitelist unten:
+!.gitignore
+!README.md
+!LICENSE
+!LICENSE.md
