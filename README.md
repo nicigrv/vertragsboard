@@ -10,14 +10,14 @@ gemeinsam über einen PHP-/MariaDB-Server oder lokal via OneDrive.
 
 **Aktuelle Version (empfohlen):**
 
-- Web-Installer (klein, laedt bei Bedarf nach):
+- Web-Installer (Empfohlen):
   https://github.com/nicigrv/vertragsboard/releases/latest/download/Vertragsboard-Installer.zip
 - Portable EXE:
   https://github.com/nicigrv/vertragsboard/releases/latest/download/Vertragsboard.exe
 - Voller Offline-Installer:
   https://github.com/nicigrv/vertragsboard/releases/latest/download/Vertragsboard-Setup.exe
 
-Alle Releases im Ueberblick: <https://github.com/nicigrv/vertragsboard/releases>
+Alle Releases im Überblick: <https://github.com/nicigrv/vertragsboard/releases>
 
 ## Betriebsmodi
 
