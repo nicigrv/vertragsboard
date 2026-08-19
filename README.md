@@ -63,3 +63,6 @@ Zwei Presets bei der Erstinstallation:
 
 Bugs / Feedback bitte als Issue:
 <https://github.com/nicigrv/vertragsboard/issues>
+
+Fehler melden auch unte Github Account: 
+<https://backend.nicolasgreulich.de/report/>
